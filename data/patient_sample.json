@@ -1,0 +1,6 @@
+{
+  "name": "John Doe",
+  "blood_type": "O+",
+  "allergies": ["penicillin"],
+  "conditions": ["type_2_diabetes"]
+}
