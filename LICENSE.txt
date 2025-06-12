@@ -1,0 +1,19 @@
+© 2025 Mohamed Aziz Bousbih. All rights reserved.
+
+This project is a proprietary prototype of a secure offline-first smart medical identity system.
+
+You may:
+
+- View, read, and learn from this repository for personal, non-commercial use only.
+- Share the repository link for educational or demonstration purposes, provided attribution is clearly given.
+
+You may not:
+
+- Copy, fork, modify, redistribute, or commercialize any part of this codebase, its concepts, or derivatives without prior written permission from the author.
+- Use this code or structure in any product, platform, or service — commercial or non-commercial — without explicit authorization.
+
+This license protects both the intellectual property and product architecture designed and authored by Mohamed Aziz Bousbih. The prototype is a stepping stone toward a larger, platform-based health infrastructure and must not be replicated, extracted, or cloned in any form.
+
+To request partnership, licensing rights, or access for further development, contact the author directly via Email or GitHub.
+
+Violation of these terms will be treated as intellectual property infringement and pursued accordingly.
