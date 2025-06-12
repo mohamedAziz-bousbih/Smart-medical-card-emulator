@@ -1,6 +1,41 @@
 {
   "name": "John Doe",
   "blood_type": "O+",
-  "allergies": ["penicillin"],
-  "conditions": ["type_2_diabetes"]
+  "date_of_birth": "1978-04-12",
+  "allergies": ["penicillin", "nuts"],
+  "conditions": ["type_2_diabetes", "hypertension"],
+  "medications": [
+    {
+      "name": "Metformin",
+      "dose": "500mg",
+      "frequency": "Twice daily"
+    },
+    {
+      "name": "Lisinopril",
+      "dose": "10mg",
+      "frequency": "Once daily"
+    }
+  ],
+  "medical_history": [
+    {
+      "diagnosis": "Type 2 Diabetes",
+      "date": "2015-06-10",
+      "notes": "Diagnosed during routine screening. Managed with diet, exercise, Metformin."
+    },
+    {
+      "diagnosis": "Hypertension",
+      "date": "2020-09-01",
+      "notes": "Blood pressure consistently elevated. Prescribed Lisinopril."
+    },
+    {
+      "diagnosis": "Minor Surgery",
+      "date": "2011-02-18",
+      "notes": "Appendectomy — no complications."
+    }
+  ],
+  "emergency_contact": {
+    "name": "Jane Doe",
+    "relation": "Spouse",
+    "phone": "+49 151 12345678"
+  }
 }
