@@ -78,10 +78,10 @@ python update_card.py
 
 ## 💡 Vision
 
-> We’re building the future of medical identity: encrypted, patient-owned, and portable.  
-> Doctors should request access, not own your history.
-> All of this will be linked to the future app/site that the user have access to his data. 
-> Security measures Will dynamically adapted based on the access role and context, ensuring real-life alignment (e.g., emergency access vs. full clinical access).
+- We’re building the future of medical identity: encrypted, patient-owned, and portable.  
+- Doctors should request access, not own your history.
+- All of this will be linked to the future app/site that the user have access to his data. 
+- Security measures Will dynamically adapted based on the access role and context, ensuring real-life alignment (e.g., emergency access vs. full clinical access).
 
 ---
 ### Role-Based Access Examples
