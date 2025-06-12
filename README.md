@@ -83,6 +83,7 @@ python update_card.py
 > All of this will be linked to the future app/site that the user have access to his data. 
 > Security measures Will dynamically adapted based on the access role and context, ensuring real-life alignment (e.g., emergency access vs. full clinical access).
 
+---
 ### Role-Based Access Examples
 
 | 👥 **Role / Scenario**         | 🔐 **Security Response**                                             |
